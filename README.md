@@ -6,8 +6,8 @@
 ### Capgemini_Profil_GROSJEAN_Nicolas_2024_04.docx
     cv Cap Gemini ÄNU 1993-2023
 
-### Capgemini_Profil_GROSJEAN_Nicolas_2024_05_EN.docx
-    cv Cap Gemini ÄNU 2010-2023
+## EN Short Complete
+SHORT_BUT_LONG_EN.pptx
 
 ## EN Short
 ### ONE_PAGE_EN.odp
